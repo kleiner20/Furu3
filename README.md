@@ -1,2 +1,2 @@
-# Furu3
-Third iterations with charts
+# Ginance-Furus-II
+App to quickly view your stock portfolio
