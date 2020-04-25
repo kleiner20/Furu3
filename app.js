@@ -4,6 +4,8 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
+var env = require('dotenv').config();
+
 
 var stocks = require('./routes/stocks');
 var app = express();
